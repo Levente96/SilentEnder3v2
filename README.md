@@ -18,7 +18,7 @@ Replacing these changed the ~84dB noise to ~50dB.
 
 ## Other Upgrades
 
-###Cable management
+### Cable management
 * Rotate your Z motor to make the connector pointing to the center. This removes stress from the cables.
 * Pull your X gantry cables to the left side instead of the back. This creates extra sapce, and relieves the cables from unnecessary stress. 
 
@@ -34,6 +34,6 @@ TODO.
 ### Dual Z axis
 I have added a second Z rod for improvements stablility on the X gantry. This removes Z wobbling and reduces the need for releveling the bed.
 
-##Future upgrades
+## Future upgrades
 1. MOBO replacement
 2. Stepper drivers in non legacy mode
